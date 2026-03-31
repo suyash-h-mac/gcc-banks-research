@@ -1,6 +1,6 @@
 # Comparative Financial Performance of Major GCC Banks Across the Interest Rate Cycle: A Multi-Method Analysis (2018-2025)
 
-**Author:** [Your Name]
+**Author:** Suyash H
 
 **Date:** March 2025
 
